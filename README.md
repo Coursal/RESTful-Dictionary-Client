@@ -1,5 +1,5 @@
 # RESTful-Dictionary-Client
-An example of a REST web service client that sends a user's credentials to the server, receives an authentication token and looks up for words from a dictionary that start and/or end with two given letters
+An example of a REST web service client that sends a user's credentials to the server, receives an authentication token and looks up for words from a dictionary that start and/or end with two given letters.
 
 All data are being sent and received with the **JSON** format.
 
