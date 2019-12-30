@@ -5,16 +5,16 @@ All data are being sent and received with the **JSON** format.
 
 ### Execution example
 ##### _Successful login with valid token and words found_
-![](http://i65.tinypic.com/4h2rgn.png)
+![](examples/example_1.png)
 
 ##### _Successful login with valid token but words not found_
-![](http://i67.tinypic.com/qppe75.png)
+![](examples/example_2.png)
 
 ##### _Successful login but invalid token_
-![](http://i66.tinypic.com/t8t0uq.png)
+![](examples/example_3.png)
 
 ##### _Unsuccessful login_
-![](http://i66.tinypic.com/v5cn0i.png)
+![](examples/example_4.png)
 
 Tied with sister project [RESTful-Dictionary-Server](https://github.com/Coursal/RESTful-Dictionary-Server).
 
